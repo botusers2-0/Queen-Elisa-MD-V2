@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DARKMAKER(mrnima)",
+  "author": "Tife",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -69,10 +69,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkMakerofc/Queen-Elisa-MD.git"
+    "url": "https://github.com/botusers2-0/Queen-Elisa-MD-V2t"
   },
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD/issues"
+    "url": "https://github.com/botusers2-0/Queen-Elisa-MD-V2"
   },
-  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD#readme"
+  "homepage": "https://github.com/botusers2-0/Queen-Elisa-MD-V2"
 }
